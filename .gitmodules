@@ -1,4 +1,4 @@
 [submodule "nativefiledialog"]
 	path = nativefiledialog
-	url = https://github.com/mlabbe/nativefiledialog
-	branch = master
+	url = https://github.com/EmbarkStudios/nativefiledialog
+	branch = coinitialize-fix
